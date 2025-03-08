@@ -69,7 +69,9 @@ Switch : we use switch instead of writing too many if..else statement.
              } 
 
 Break : It is use to jump out of a loop.
+
 Continue : It is use to skip a specific iteration if the condition occurs is true.
+
 Method : A method is a block of code which only runs when called. They are also known as functions.
          The data is pass in the form of parameters.
          A method must be inside a class.
@@ -79,13 +81,18 @@ Method : A method is a block of code which only runs when called. They are also 
             }
          }
          myMethod : It is the name of method.
+
          static : It implies that method belongs to main class and it's an object.
+
          void : It means method does not return any value.
         After this then call that method.
+
 Parameters : Information can be passed to methods as a parameter. Parameters act as variables inside the method.When a parameter is passed to the method, it is called an argument.
 You can have as many parameter as you want.
 
 Method Overloading : Multiple methods have same name but different parameters.
+
 Scope : variables are only accessible inside the region they are created. This is called scope.
+
 Scanner : The scanner class is use to get user input and it is use in java.util package.
           To use it define the object of the scanner class and then use it.
